@@ -1,6 +1,6 @@
 const Scroll = (props) => {
 	return(
-		<div style={{overflox:'scroll', overflowY:'scroll', height:'300px', width: '600px'}}>
+		<div style={{overflox:'scroll', overflowY:'scroll', height:'300px', width: '100%'}}>
 			{props.children}
 		</div>
 	);
