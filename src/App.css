@@ -120,6 +120,10 @@ textarea{
 
 /* end */
 .end {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
   color: rgb(109, 71, 0);
   padding-top: 0;
   margin-top: 0;
