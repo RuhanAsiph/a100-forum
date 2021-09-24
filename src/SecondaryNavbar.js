@@ -8,7 +8,7 @@ function SecondaryNavbar(){
             
             
                 <ul>
-                    <a href="google.com"><li>MAIN</li></a>
+                    <a href=""><li>MAIN</li></a>
                     <a href="" ><li>LETTERS</li></a>
                     <a href="" ><li>SAQINA</li></a>
                 </ul>
