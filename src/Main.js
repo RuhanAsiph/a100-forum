@@ -1,7 +1,6 @@
 import Scroll from "./Scroll.js";
 import { useState } from "react";
 import React from 'react';
-import ReactPlayer from "react-player";
 
 function Main(){
 	const [yourName, setYourname] = useState("lovely");
@@ -27,7 +26,6 @@ function Main(){
 				<p>They makes us feel as if we don't matter, but you do really matter :)</p>
 				<Scroll>
 			  	  <p>
-				    <ReactPlayer url="https://soundcloud.com/ruhanasif/test-alliph" />
 				  </p>
 				</Scroll>
 				
